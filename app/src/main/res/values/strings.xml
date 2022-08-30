@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hint_city">Введите город</string>
+    <string name="change_city">Поменять город</string>
+    <string name="degree">℃</string>
+    <string name="find_weather">Узнать погоду</string>
+    <string name="feels_like">Ощущается как:</string>
+    <string name="wind_speed">Скорость ветра:</string>
+    <string name="min_temp_text">Минимальная температура</string>
+    <string name="max_temp_text">Максимальная температура</string>
+</resources>
